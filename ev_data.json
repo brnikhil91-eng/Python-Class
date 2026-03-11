@@ -1,0 +1,47 @@
+[
+{
+"Vehicle_ID": "EV001",
+"Make": "Tesla",
+"Model": "Model 3",
+"Electric_Vehicle_Type": "Battery Electric Vehicle (BEV)",
+"Clean_Alternative_Fuel_Vehicle_Eligibility": "Eligible",
+"State": "WA",
+"City": "Seattle"
+},
+{
+"Vehicle_ID": "EV002",
+"Make": "Nissan",
+"Model": "LEAF",
+"Electric_Vehicle_Type": "Battery Electric Vehicle (BEV)",
+"Clean_Alternative_Fuel_Vehicle_Eligibility": "Eligible",
+"State": "CA",
+"City": "Los Angeles"
+},
+{
+"Vehicle_ID": "EV003",
+"Make": "Toyota",
+"Model": "Prius Prime",
+"Electric_Vehicle_Type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+"Clean_Alternative_Fuel_Vehicle_Eligibility": "Eligible",
+"State": "WA",
+"City": "Bellevue"
+},
+{
+"Vehicle_ID": "EV004",
+"Make": "Chevrolet",
+"Model": "Bolt EV",
+"Electric_Vehicle_Type": "Battery Electric Vehicle (BEV)",
+"Clean_Alternative_Fuel_Vehicle_Eligibility": "Eligible",
+"State": "OR",
+"City": "Portland"
+},
+{
+"Vehicle_ID": "EV005",
+"Make": "Hyundai",
+"Model": "Kona Electric",
+"Electric_Vehicle_Type": "Battery Electric Vehicle (BEV)",
+"Clean_Alternative_Fuel_Vehicle_Eligibility": "Eligible",
+"State": "WA",
+"City": "Seattle"
+}
+]

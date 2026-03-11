@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,QuantitySold,UnitPrice,SaleDate
+P101,Laptop,Electronics,5,1200.00,2023-01-10
+P102,Mouse,Electronics,20,25.50,2023-01-10
+P103,Keyboard,Electronics,15,75.00,2023-01-11
+P201,T-Shirt,Apparel,50,15.00,2023-01-11
+P202,Jeans,Apparel,10,45.00,2023-01-12
+P301,Coffee Maker,Home Goods,8,80.00,2023-01-12
+P101,Laptop,Electronics,3,1200.00,2023-01-13
+P103,Keyboard,Electronics,10,75.00,2023-01-14
+P201,T-Shirt,Apparel,30,15.00,2023-01-14
+P302,Blender,Home Goods,7,60.00,2023-01-15
